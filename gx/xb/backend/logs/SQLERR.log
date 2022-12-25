@@ -1,0 +1,7 @@
+2022-11-21 15:22:01,716 ERROR     (1048, "Column 'tm_cost' cannot be null")
+2022-11-21 15:24:58,294 ERROR     (1048, "Column 'tm_cost' cannot be null")
+2022-11-21 15:25:31,103 ERROR     (1048, "Column 'tm_cost' cannot be null")
+2022-11-21 15:27:45,872 ERROR     (1048, "Column 'tm_cost' cannot be null")
+2022-11-21 15:28:47,663 ERROR     (1048, "Column 'tm_cost' cannot be null")
+2022-11-21 15:30:05,501 ERROR     (1048, "Column 'tm_cost' cannot be null")
+2022-11-21 18:04:48,316 ERROR     (1062, "Duplicate entry '' for key 'finace_cost.PRIMARY'")
